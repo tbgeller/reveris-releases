@@ -1,0 +1,11 @@
+Copyright (c) 2026 TBG Advisory, LLC. All Rights Reserved.
+
+Reveris is proprietary software. No license or right to use, copy, modify,
+distribute, or create derivative works of the software or the artifacts in this
+repository is granted except as expressly set forth in the End User License
+Agreement presented within the application. Your use of Reveris is governed by
+that End User License Agreement.
+
+The artifacts published in this repository are made available solely for
+download and installation of the Reveris application by licensed users. All
+other rights are reserved.
